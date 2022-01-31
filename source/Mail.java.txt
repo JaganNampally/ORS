@@ -1,0 +1,5 @@
+public class Mail(){
+	public statis void main(){
+		System.out.print("Hello World")
+}
+}
